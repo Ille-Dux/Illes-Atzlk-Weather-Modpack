@@ -1,27 +1,27 @@
-# 🌦️ Ille's Atzlk Weather Modpack
+# Ille's Atzlk Weather Modpack
 
-**A better, smoother and more polished version of the Atzlk SMP experience.**
+**A faster, smoother and more polished version of the Atzlk SMP modpack, and WeatherFlux mod.**
 
-Ille's Atzlk Weather Modpack is a Minecraft modpack based on **Atzlk's Server+ Modpack**, with a strong focus on **performance, quality-of-life, visuals, and overall gameplay improvements**.
+Ille's Atzlk Weather Modpack is a modpack based on **Atzlk's Server+ Modpack**, with a strong focus on **general performance, quality-of-life features, gameplay visuals, and overall tweaks that make the game feel more fluent**.
 
 ## What does it include?
 
-### ⚡ Performance
+### Performance
 
 A large selection of optimisation mods designed to improve:
 
-- **FPS and frame-time consistency**
-- **World loading**
+- **FPS and overall frame-time consistency**
+- **World/chunk loading**
 - **Chunk rendering**
-- **Memory usage**
-- **General game performance**
-- **Stuttering and lag**
+- **Memory(RAM) usage**
+- **General gameplay performance**
+- **Stuttering and painful lag**
 
-Whether you're running a high-end computer, or something a more mid-range, my pack aims to make Minecraft run as _smoothly_ as possible.
+Whether you're running a high-end computer, or something on the lower range of devices, this modpack aims to make Minecraft run as _buttery smooth_ as it possibly can.
 
-### 🛠️ Quality of Life
+### Quality of Life
 
-The pack includes a variety of **QoL mods** that improve overall gameplay without changing the Atzlk experience at all.
+The pack includes a spectrum of various **quality of life mods** which improve the overall gameplay of the game, while not interfering too much with framerates.
 
 Expect improvements to:
 
@@ -32,33 +32,33 @@ Expect improvements to:
 - **Visual feedback**
 - **General convenience**
 
-### 🎨 Visual Improvements
+### Visual Improvements
 
-A wide selection of **visual enhancements, resource packs and shaderpacks** help make the world feel even more realistic and lively, along with WeatherFlux's stunning weather.
+A wide variation of **visual enhancements, resource packs and shaderpacks** are included to help make the Minecraft world feel extra realistic and especially lively, along with the WeatherFlux mods _stunning_ raymarched weather.
 
-### 🌧️ Built for Atzlk SMP
+### Built for Atzlk SMP
 
 This pack is specifically designed around the **Atzlk SMP** and its existing modpack. Please send support to Atzlks modpacks, server, and YouTube channel.
 
-Although this modpack is intended for use with the Atzlk SMP, it's also great for your own use.
+Although this modpack is built around use on the Atzlk SMP, it's also fabulous for your own personal use.
 
 ---
 
-## 🧪 Beta
+## Beta
 
 **Ille's Atzlk Weather Modpack is currently in BETA.**
 
-This is the **first public version** of my modpack, so bugs, incompatibilities and performance issues may still unfortunately occur.
+This is the **first public version** of this modpack, so possible bugs, incompatibilities and performance issues may still unfortunately occur.
 
-Although unlikedly, things may change significantly between the beta versions as the pack is tested and feedback is given.
+Although unlikely, things _may_ change between versions (especially beta versions) as the pack is progressively tested, and more feedback is submitted.
 
-If you encounter any **crashes, bugs, broken features, or anything that's pear shaped**, please report it to "Ille Dux" on Discord so it can be investigated.
+If you encounter any **crashes, bugs, broken features, or anything that seems pear shaped**, please report it to **"Ille Dux"** on Discord so it can be investigated and fixed.
 
 ---
 
-## 📦 Version Information
+## Version Information
 
-**Current Version:** `Beta-1.0.0`  
-**Minecraft:** `1.21.1`  
-**Loader:** `NeoForge`  
-**Status:** `🟡 **Beta / Testing**`
+**Mod Latest Version:** `Beta-1.0.0`  
+**Minecraft Version:** `1.21.1`  
+**Mod Loader:** `NeoForge`  
+**Current Status:** `🟡 **Beta / Testing**`
